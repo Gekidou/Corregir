@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+
+@import "node_modules/booststrap/dist/css/booststrap.min.css";
+@import "~@angular/material/prebuilt-themes/indigo-pick.css";
+html, body{
+height: 100%;
+
+}
+
+body {
+
+    margin: 0;
+    font-family: Roboto, "Helvatica Neue", "sans-serif";
+}
